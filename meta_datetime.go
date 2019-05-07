@@ -5,9 +5,9 @@ import (
 	"time"
 
 	"github.com/jinzhu/gorm"
-	"github.com/qor/qor"
-	"github.com/qor/qor/resource"
-	"github.com/qor/qor/utils"
+	"github.com/itech-eng/qor"
+	"github.com/itech-eng/qor/resource"
+	"github.com/itech-eng/qor/utils"
 )
 
 // DatetimeConfig meta configuration used for datetime

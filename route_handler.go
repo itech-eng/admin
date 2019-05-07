@@ -3,8 +3,8 @@ package admin
 import (
 	"strings"
 
-	"github.com/qor/qor"
-	"github.com/qor/roles"
+	"github.com/itech-eng/qor"
+	"github.com/itech-eng/roles"
 )
 
 // RouteConfig config for admin routes

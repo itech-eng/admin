@@ -5,8 +5,8 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/qor/admin/tests/dummy"
-	"github.com/qor/qor/utils"
+	"github.com/itech-eng/admin/tests/dummy"
+	"github.com/itech-eng/qor/utils"
 )
 
 func main() {

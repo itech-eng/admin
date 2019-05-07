@@ -3,7 +3,7 @@ package admin
 import (
 	"testing"
 
-	"github.com/qor/qor"
+	"github.com/itech-eng/qor"
 )
 
 func generateResourceMenu(resource *Resource) *Menu {

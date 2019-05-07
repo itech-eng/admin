@@ -7,10 +7,10 @@ import (
 	"net/http"
 	"path/filepath"
 
-	"github.com/qor/qor"
-	"github.com/qor/qor/utils"
-	"github.com/qor/roles"
-	"github.com/qor/session"
+	"github.com/itech-eng/qor"
+	"github.com/itech-eng/qor/utils"
+	"github.com/itech-eng/roles"
+	"github.com/itech-eng/session"
 )
 
 // Context admin context, which is used for admin controller

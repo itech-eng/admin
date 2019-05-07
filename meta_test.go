@@ -4,11 +4,11 @@ import (
 	"reflect"
 	"testing"
 
-	. "github.com/qor/admin/tests/dummy"
+	. "github.com/itech-eng/admin/tests/dummy"
 
-	"github.com/qor/admin"
-	"github.com/qor/qor"
-	"github.com/qor/qor/resource"
+	"github.com/itech-eng/admin"
+	"github.com/itech-eng/qor"
+	"github.com/itech-eng/qor/resource"
 )
 
 func TestTextInput(t *testing.T) {
